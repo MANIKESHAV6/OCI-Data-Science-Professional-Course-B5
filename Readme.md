@@ -7,7 +7,7 @@ This experience gave me a complete walkthrough of the **end-to-end ML workflow o
 
 ## 📜 My Progress  
 
-![OCI Data Science Professional Progress](progress.png) 
+![OCI Data Science Professional Progress](progress.pdf) 
 
 ---
 
